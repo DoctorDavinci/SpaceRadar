@@ -1,0 +1,76 @@
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\ModuleSpaceRadar.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\ModuleSpaceRadar.pdb
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\Assembly-CSharp.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\BDArmory.Core.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\BDArmory.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\KSPAssets.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\System.Core.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\System.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\System.Xml.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\UnityEngine.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\UnityEngine.UI.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\KSPTrackIR.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\Mono.Cecil.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\TDx.TDxInput.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\bin\Debug\Mono.Security.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\obj\Debug\ModuleSpaceRadar.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\obj\Debug\ModuleSpaceRadar.csproj.CoreCompileInputs.cache
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\obj\Debug\ModuleSpaceRadar.dll
+C:\Users\Black Ops\Desktop\MYMODS\KRadar\KRadar_Plugin\obj\Debug\ModuleSpaceRadar.pdb
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\ModuleSpaceRadar.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\ModuleSpaceRadar.pdb
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\Assembly-CSharp.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\BDArmory.Core.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\BDArmory.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\KSPAssets.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\System.Core.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\System.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\System.Xml.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\UnityEngine.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\UnityEngine.UI.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\KSPTrackIR.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\Mono.Cecil.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\TDx.TDxInput.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\bin\Debug\Mono.Security.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.csproj.CoreCompileInputs.cache
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.dll
+C:\Users\Black Ops\Desktop\MYMODS\SpaceRadar\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.pdb
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\ModuleSpaceRadar.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\ModuleSpaceRadar.pdb
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\Assembly-CSharp.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\BDArmory.Core.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\BDArmory.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\KSPAssets.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\UnityEngine.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\UnityEngine.UI.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\KSPTrackIR.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\Mono.Cecil.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\Ionic.Zip.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\TDx.TDxInput.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\bin\Debug\RedShellSDK.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.csproj.CoreCompileInputs.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.pdb
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\ModuleSpaceRadar.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\ModuleSpaceRadar.pdb
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\Assembly-CSharp.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\BDArmory.Core.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\BDArmory.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\KSPAssets.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\UnityEngine.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\UnityEngine.UI.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\KSPTrackIR.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\Mono.Cecil.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\Ionic.Zip.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\TDx.TDxInput.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\bin\Debug\RedShellSDK.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.csproj.CoreCompileInputs.cache
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.dll
+C:\Users\Black Ops\Desktop\MODS 1.4.3\SpaceRadar_source\SpaceRadar_Plugin\obj\Debug\ModuleSpaceRadar.pdb
